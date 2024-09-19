@@ -1,2 +1,1 @@
-# supatra
-# databricks
+## databricks
